@@ -1,2 +1,2 @@
-# Mini_callculator
+# Mini_calculator
 using simple calculator
